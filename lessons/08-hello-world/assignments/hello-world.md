@@ -1,4 +1,4 @@
-# Hello World
+# Hello CAT
 
 A "Hello World" program is the first program that most programmers create to explore a new programming language. Be sure to read the [wikipedia](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) article which provides even more context about what this is and why we use it!
 
